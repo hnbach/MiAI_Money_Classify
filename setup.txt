@@ -1,0 +1,9 @@
+scikit-learn
+scikit-image
+tensorflow==2.9
+keras==2.9
+opencv-python-headless
+segmentation_models
+pillow
+gdown
+unzip
